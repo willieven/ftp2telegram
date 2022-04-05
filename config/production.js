@@ -12,7 +12,7 @@ module.exports = {
     },
 
     telegram: {
-        token: 'xxxxxxxxxxxxxxxxxxxxxxxxx',
+        token: '5259799222:AAFJHt49XKeu8DsyPsqZyruw6ZbcDF17Cb0',
         chatIds: [-1337]
     }
 };
