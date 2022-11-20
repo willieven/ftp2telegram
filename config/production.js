@@ -12,7 +12,7 @@ module.exports = {
     },
 
     telegram: {
-        token: '5259799222:AAFJHt49XKeu8DsyPsqZyruw6ZbcDF17Cb0',
-        chatIds: [-1001341577227]
+        token: '5648443731:AAErZm05WqK-gbtMMw3z_wfnZ2YVncCaUwY',
+        chatIds: [-1001677121379]
     }
 };
